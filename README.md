@@ -1,11 +1,13 @@
 # Juxt-Web
-
+Pretendo Network DISCORD ATTACHMENT ----
 <p align="left">
     <a href="https://discord.gg/rxekqVJ" target="_blank">
         <img src="https://discordapp.com/api/guilds/408718485913468928/widget.png?style=banner3">
     </a>
 </p>
-
+<a href="pixlstudios.eu>
+    <h1>PIXLSTUDIOS WEBSITE</h1>
+</a>
 ## Pretendo replacement for https://portal.olv.nintendo.net and https://ctr.olv.nintendo.net
 
 # What is this?
