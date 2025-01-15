@@ -6,7 +6,7 @@ Pretendo Network DISCORD ATTACHMENT ----
     </a>
 </p>
 <a href="pixlstudios.eu" target="_blank">
-    <h1>PIXLSTUDIOS WEBSITE</h1>
+    <h1>PIXLSTUDIOS WEBSITE - pixlstudios.eu</h1>
 </a>
 ## Pretendo replacement for https://portal.olv.nintendo.net and https://ctr.olv.nintendo.net
 
