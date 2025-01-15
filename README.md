@@ -5,7 +5,7 @@ Pretendo Network DISCORD ATTACHMENT ----
         <img src="https://discordapp.com/api/guilds/408718485913468928/widget.png?style=banner3">
     </a>
 </p>
-<a href="pixlstudios.eu">
+<a href="pixlstudios.eu" target="_blank">
     <h1>PIXLSTUDIOS WEBSITE</h1>
 </a>
 ## Pretendo replacement for https://portal.olv.nintendo.net and https://ctr.olv.nintendo.net
